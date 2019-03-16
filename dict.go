@@ -13723,6 +13723,7 @@ var dict = map[string]map[string][]string{
 			"海南省",
 			"香港",
 			"澳门",
+			"台湾",
 		},
 		"company.name": []string{
 			"#{Name.first_name}#{Name.first_name}#{suffix}",
